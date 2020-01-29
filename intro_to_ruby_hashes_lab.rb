@@ -1,9 +1,9 @@
 def new_hash
-  # return an empty hash
+  return {}
 end
 
 def my_hash
-  # return a valid hash with any key/value pair of your choice
+  return {1 : 2}
 end
 
 def pioneer
